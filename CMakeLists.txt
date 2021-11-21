@@ -62,6 +62,9 @@ set(CHAPTERS
     5.advanced_lighting
     6.pbr
     7.in_practice
+    HW_3.robot_arm
+    HW_4.robot_arm
+    HW_5.robot_arm
 )
 
 set(1.getting_started
@@ -165,6 +168,20 @@ set(7.in_practice
     2.text_rendering
     #3.2d_game
 )
+
+set(HW_3.robot_arm
+    1.robot_arm
+)
+
+set(HW_4.robot_arm
+    1.robot_arm
+)
+
+
+set(HW_5.robot_arm
+    1.robot_arm
+)
+
 
 
 
