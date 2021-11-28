@@ -65,6 +65,7 @@ set(CHAPTERS
     HW_3.robot_arm
     HW_4.robot_arm
     HW_5.robot_arm
+    HW_6.robot_arm
 )
 
 set(1.getting_started
@@ -182,6 +183,9 @@ set(HW_5.robot_arm
     1.robot_arm
 )
 
+set(HW_6.robot_arm
+    1.robot_arm
+)
 
 
 

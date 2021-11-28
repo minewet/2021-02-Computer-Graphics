@@ -1,5 +1,5 @@
 /*
- extra credit 문제 구현함.
+ HW4
 */
 
 #include <glad/glad.h>
